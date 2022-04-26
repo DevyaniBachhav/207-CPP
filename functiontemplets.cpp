@@ -34,7 +34,7 @@ void binary::show()
  	  cout<<"value of b="<<b<<endl;
  	  cout<<"**************************************"<<endl;
    }
-main()
+void main()
 {
 clrscr();
 binary B1,B2,B4;
