@@ -31,7 +31,7 @@ cout<<"a=    "<<a<<endl;
 cout<<"b=    "<<b<<endl;
 cout<<"c=    "<<c<<endl;
 }
-main()
+void main()
 {
 clrscr();
 unary u;
