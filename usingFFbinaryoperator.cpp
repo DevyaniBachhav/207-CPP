@@ -29,7 +29,7 @@ cout<<"Addition of two object is "<<endl;
 cout<<"Value of is a"<<a<<endl;
 cout<<"Value of b is"<<b<<endl;
 }
-main()
+void main()
 {
 clrscr();
 fbinary f1,f2,f3;
